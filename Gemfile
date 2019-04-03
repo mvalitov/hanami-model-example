@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'pg', '~> 1.1'
+gem 'typhoeus', '~> 1.3'
+gem 'dotenv'
+gem 'rubyzip'
+gem 'byebug'
+gem 'oauth', '~> 0.5'
+gem 'dry-transaction'
+gem 'hanami-model'
+gem 'dry-system'
+gem 'dry-monitor'
